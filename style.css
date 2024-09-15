@@ -1,0 +1,26 @@
+/* style.css */
+
+body{
+    background-color: rgb(255, 217, 181);
+    font-family: "Ubuntu Light", Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-decoration: dotted underline;
+}
+
+h1, h2{
+    color: rgb(83, 83, 83);
+    background-color: rgb(255, 191, 131);
+    text-align: center;
+    font-family: Purisa, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+a{
+    font-family: Chilanka, Arial, Helvetica, sans-serif;
+    color: darkred;
+    text-decoration: none;
+    font-size: 1.25rem;
+}
+
